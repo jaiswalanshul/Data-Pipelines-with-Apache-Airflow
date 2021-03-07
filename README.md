@@ -1,2 +1,2 @@
-# Data Pipelines with Apache Airflow 
- Data Pipelines with Apache Airflow 
+# productionalizing-data-pipelines-airflow
+Productionalizing Data Pipelines with Apache Airflow course @ Pluralsight
